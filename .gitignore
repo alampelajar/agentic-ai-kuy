@@ -1,0 +1,29 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Go
+be/bin/
+be/*.exe
+
+# Environment
+.env
+**/.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
+
+# Build
+coverage/
+
+# Secrets
+*.pem
+*.key
